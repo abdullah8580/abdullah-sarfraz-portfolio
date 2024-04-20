@@ -39,16 +39,22 @@ function HeroSection() {
             </div>
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-            exercitationem nostrum enim! Quod sed harum excepturi nobis natus
+            I am a website developer with experience in many programming
+            languages. Dedicated to create beautiful websites and web
+            applications for you!
           </p>
           <div className="mb-5">
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-white bg-gradient-to-br from-blue-700 via-purple-500 to-red-700 hover:bg-slate-300 text-white">
-              Hire Me
+              <a href="mailto:abdullahsarfraz8580@gmail.com">Hire Me</a>
             </button>
             <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-700 via-purple-500 to-red-700 hover:bg-slate-900 text-white mt-3">
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                Download CV
+                <a
+                  href="../files/abdullah-sarfraz-resume.pdf"
+                  download={"abdullah-sarfraz-resume.pdf"}
+                >
+                  Download CV
+                </a>
               </span>
             </button>
           </div>

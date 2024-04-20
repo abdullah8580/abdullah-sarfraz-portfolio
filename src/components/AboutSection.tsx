@@ -64,11 +64,11 @@ function AboutSection() {
         <div className=" mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-            molestiae saepe necessitatibus laudantium deleniti aspernatur. Illo
-            obcaecati quibusdam tenetur voluptatem tempore. Repellat vitae ipsa
-            soluta itaque optio, possimus accusantium consequatur animi culpa
-            temporibus ea tenetur, deleniti atque commodi, sit totam.
+            My name is Abdullah Sarfraz and I am a web developer. I am based in
+            Lahore, Pakistan. I am currently seeking new oppertunities to work
+            and groom myself. I am passionate about web development and I am
+            always looking for new challenges. I am a self-taught developer and
+            I am always looking for new ways to improve my skills.
           </p>
           <div className="flex flex-row mt-8">
             <TabButton
