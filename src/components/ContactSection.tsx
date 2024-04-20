@@ -7,7 +7,7 @@ import Image from "next/image";
 function ContactSection() {
   return (
     <section
-      className="flex md:flex-row lg:flex-row sm:flex-col justify-between items-start my-12 md:my-12 py-24 gap-4"
+      className="flex sm:flex-row flex-col justify-between items-start my-12 md:my-12 py-24 gap-4"
       id="contact"
     >
       <div>
