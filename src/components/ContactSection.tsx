@@ -13,7 +13,7 @@ function ContactSection() {
       <div>
         <div className="flex flex-col">
           <h5 className="text-xl font-bold text-white my-2 ">
-            Let`s Start a New Journey Now!
+            Let`s Start a New Journey Together!
           </h5>
           <p className="text-[#ADB7BE] mb-4 max-w-md">
             {" "}
