@@ -12,13 +12,13 @@ function ContactSection() {
     >
       <div>
         <div className="flex flex-col">
-          <h5 className="text-xl font-bold text-white my-2">
-            Let's Start a New Journey Now!
+          <h5 className="text-xl font-bold text-white my-2 ">
+            Let`s Start a New Journey Now!
           </h5>
           <p className="text-[#ADB7BE] mb-4 max-w-md">
             {" "}
             I am currently looking for new oppertunities, my inbox is always
-            open. Weather you have a question or just want to say hi, I'll try
+            open. Weather you have a question or just want to say hi, I will try
             my best to get back to you!
           </p>
           <div className="text-white font-bold mb-4 max-w-md">

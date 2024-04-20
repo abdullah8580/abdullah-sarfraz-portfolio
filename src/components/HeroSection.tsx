@@ -16,7 +16,7 @@ function HeroSection() {
         >
           <h1 className="text-white mb-4 text-4xl lg:text-6xl sm:text-5xl font-extrabold">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-700">
-              Hello, I'm{" "}
+              Hello, I am{" "}
             </span>
             <br />
             <div className="mt-3 lg:mt-5">
